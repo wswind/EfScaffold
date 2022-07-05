@@ -1,5 +1,5 @@
 安装ef tool：
-dotnet tool install --global dotnet-ef --version 3.1.17
+dotnet tool install --global dotnet-ef --version 3.1.26
 
 运行scaffold.cmd 
 (1)输入连接串，如： Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;
